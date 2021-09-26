@@ -47,6 +47,6 @@ a:hover {
     height: auto;
 }
 
-div > p {
+div p {
     color:#ff0000;
 }
