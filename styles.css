@@ -1,0 +1,52 @@
+#cartman-title {
+    font-family:'Lucida Sans';
+}
+#cartman-title {
+    color: red;
+    border: 1px solid #008080;
+    background-color: #008080;
+}
+.title {
+    font-family:Georgia;
+    color: green;
+    border: 1px solid #ff4500;
+    background-color: #ff4500;
+}
+#stan-title {
+    font-family:Arial;
+    color: blue;
+    border: 1px solid #ff0000;
+    background-color: #ff0000;
+}
+#kenny-title {
+    font-family:'Franklin Gothic Medium';
+    color: orangered;
+    border: 1px solid #ff4500;
+    background-color: #663300;
+}
+h1 {
+    font-family: cursive;
+    text-transform: uppercase;
+    background-color: #00ffff;
+    border-color: #ff3300;
+}
+h4 {
+    font-weight: bold;
+}
+p {
+    border: 1px solid blue;
+    color: #0000ff;
+}
+
+a:hover {
+    color:#ff0000;
+}
+
+.name {
+    width: 300px;
+    height: auto;
+}
+
+div p {
+    color:#ff0000;
+}
